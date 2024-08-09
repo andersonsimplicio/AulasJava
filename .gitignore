@@ -1,0 +1,24 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de build gerados pelo Maven ou Gradle
+target/
+build/
+
+# Arquivos de configuração específicos da IDE (por exemplo, IntelliJ IDEA ou Eclipse)
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.tmp.*
+*.swp
+
+# Arquivos de dependências (caso utilize Maven, Gradle ou outro gerenciador)
+lib/
